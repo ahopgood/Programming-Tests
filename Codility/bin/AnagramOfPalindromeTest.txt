@@ -1,0 +1,1 @@
+Must be able to return 0 if a string isn't an anagram of a palindrome 1 if it is.
