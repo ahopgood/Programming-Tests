@@ -13,7 +13,7 @@
  * One line for one parameter. Hint - binary tree
  * Created by Alexander on 05/11/2016.
  */
-public class Solution {
+public class BruteForceSolution {
     public int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length-1; i++){
             for (int j = i+1; j < nums.length; j++ ){
